@@ -2,7 +2,8 @@ package com.chepsi.callbackdemo
 
 import android.app.Application
 
-class CallbackDemo : Application(){
+// root application class for CallbackDemo
+class CheckNetworkConnectivity : Application(){
     override fun onCreate() {
         super.onCreate()
         //Start network callback
