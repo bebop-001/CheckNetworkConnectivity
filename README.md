@@ -11,5 +11,5 @@ mode for API 19 forward and a trivial user interface.
 
 <center>
   <summary>Demo app screenshot</summary>
-  <img alt="demo app screenshot" src="https://github.com/bebop-001/CheckNetworkConnectivity/blob/master/resources/Screenshot.png">
+  <img alt="demo app screenshot" src="https://github.com/bebop-001/CheckNetworkConnectivity/blob/main/resources/screenshot.png?raw=true">
 </center>
